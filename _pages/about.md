@@ -6,7 +6,7 @@ subtitle: AI Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cute.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -27,6 +27,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Research Intern at [NVIDIA Research Taiwan](https://research.nvidia.com/labs/twn/), focusing on vision-language generative models, with a recent interest in world foundation models and large reasoning models.
 
-I am currently pursuing my Ph.D. at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), supervised by Prof. [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html). Previously, I was a applied scientist intern at Microsoft, working on designing and deploying deep learning models for Bing Maps.
+I am currently pursuing my Ph.D. at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), supervised by Prof. [Yu-Chiang Frank Wang](https://vllab.ee.ntu.edu.tw/ycwang.html). Previously, I was an Applied Scientist Intern at Microsoft, working on designing and deploying deep learning models for [Bing Maps](https://www.bing.com/maps).
 
-Prior to my Ph.D., I received my Bachelor's degree from [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2022.
+Prior to my Ph.D., I received my Bachelor's degree from the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2022.
