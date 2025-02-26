@@ -153,6 +153,7 @@ exclude:
   - _layouts/archive-tag.liquid
   - _layouts/archive-year.liquid
   - _plugins/external-posts.rb
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
