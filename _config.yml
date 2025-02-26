@@ -234,8 +234,8 @@ scholar:
 
   query: "@*"
 
-  sort_by: year,month
-  sort_order: descending,ascending
+  sort_by: display_order
+  sort_order: descending
 
   group_by: year
   group_order: descending
@@ -273,7 +273,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
-    month,
+    display_order,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
