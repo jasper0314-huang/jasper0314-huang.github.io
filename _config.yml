@@ -155,6 +155,7 @@ exclude:
   - _plugins/external-posts.rb
   - _pages/teaching.md
   - _pages/profiles.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
