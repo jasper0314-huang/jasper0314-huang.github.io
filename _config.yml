@@ -236,7 +236,7 @@ scholar:
   query: "@*"
 
   sort_by: year,month
-  sort_order: descending,descending
+  sort_order: descending,ascending
 
   group_by: year
   group_order: descending
