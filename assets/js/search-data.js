@@ -424,6 +424,13 @@ ninja.data = [{
           window.open("mailto:%66%31%31%39%34%32%30%39%37@%6E%74%75.%65%64%75.%74%77", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=s8-yTSwAAAAJ", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -436,13 +443,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/chi-pin-huang-b69704208", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=s8-yTSwAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
