@@ -360,16 +360,17 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-paper-rapper-is-accepted-by-iclr-2024",
+          title: 'Our paper “RAPPER” is accepted by ICLR 2024.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-papers-receler-and-select-and-distill-are-accepted-at-eccv-2024",
+          title: 'Our papers “Receler” and “Select and Distill” are accepted at ECCV 2024.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-join-nvidia-research-as-a-research-intern",
+          title: 'Join NVIDIA Research as a Research Intern.',
+          description: "",
+          section: "News",},{id: "news-our-paper-videomage-is-accepted-by-cvpr-2025",
+          title: 'Our paper “VideoMage” is accepted by CVPR 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
