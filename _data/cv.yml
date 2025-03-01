@@ -9,18 +9,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Doctor of Philosophy (Ph.D.)
       institution: National Taiwan University (NTU)
       year: 2022 - now
       description:
         - Computer Vision, Data Science Group
         - Supervised by Prof. Yu-Chiang Frank Wang
-    - title: Bachelor
+    - title: Bachelor of Science (B.S.)
       institution: National Taiwan University (NTU)
       year: 2018 - 2022
       description:
         - Computer Science and Information Engineering
-        - GPA: 4.11/4.30
+        - "GPA: 4.11/4.30"
 
 - title: Industry Experiences
   type: time_table
@@ -28,13 +28,9 @@
     - title: Research Intern
       institution: NVIDIA Research
       year: 2025 - now
-      description:
-        - Researching on Vision-Language Generative Models
     - title: Applied Scientist Intern
       institution: Microsoft
       year: 2021 - 2022
-      description:
-        - Designing and deploying deep learning models for Bing Maps
 
 - title: Professional Services
   type: map
