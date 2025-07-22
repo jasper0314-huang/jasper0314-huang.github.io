@@ -19,6 +19,10 @@
 "wu":
   - firstname: ["Yen-Siang"]
     url: https://www.csie.ntu.edu.tw/~b09902097/yensiangwu/
+  - firstname: ["Yueh-Hua"]
+    url: https://kristery.github.io/
+  - firstname: ["Meng-Lin"]
+    url: https://menglin-wu.github.io/
 
 "chang":
   - firstname: ["Kai-Po"]
@@ -31,6 +35,8 @@
 "chen":
   - firstname: ["Jr-Jen"]
     url: https://tousakanagio.github.io/
+  - firstname: ["Min-Hung"]
+    url: https://minhungchen.netlify.app/
 
 "cheng":
   - firstname: ["Wei-Yuan"]
