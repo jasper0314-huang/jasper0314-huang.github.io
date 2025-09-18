@@ -365,6 +365,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-videomage-is-accepted-by-cvpr-2025",
           title: 'Our paper “VideoMage” is accepted by CVPR 2025.',
           description: "",
+          section: "News",},{id: "news-our-paper-thinkact-is-accepted-by-neurips-2025",
+          title: 'Our paper “ThinkAct” is accepted by NeurIPS 2025.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
