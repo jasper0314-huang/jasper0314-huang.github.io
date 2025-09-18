@@ -797,14 +797,15 @@ footer.sticky-bottom {
 
       .links {
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 0.5rem;
+          color: #0077cc;
+          // border: 1px solid var(--global-text-color);
+          padding-left: 0.0rem;
           padding-right: 0.5rem;
           padding-top: 0.0rem;
           padding-bottom: 0.0rem;
-          margin-left: 0;
-          font-size: 0.75rem;
+          margin: 0;
+          font-size: 0.95rem;
+          text-transform: none;
 
           &:hover {
             color: var(--global-theme-color);
