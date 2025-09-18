@@ -283,6 +283,10 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  .nav-link {
+    text-transform: lowercase;
+  }
+
   .navbar-brand {
     color: var(--global-text-color);
   }
