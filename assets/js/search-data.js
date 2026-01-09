@@ -361,6 +361,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-thinkact-is-accepted-by-neurips-2025",
           title: 'Our paper “ThinkAct” is accepted by NeurIPS 2025.',
           description: "",
+          section: "News",},{id: "news-our-papers-santa-and-ta-prompting-are-accepted-by-wacv-2026",
+          title: 'Our papers “SANTA” and “TA-Prompting” are accepted by WACV 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
