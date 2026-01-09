@@ -367,6 +367,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-santa-and-ta-prompting-are-accepted-by-wacv-2026",
           title: 'Our papers “SANTA” and “TA-Prompting” are accepted by WACV 2026.',
           description: "",
+          section: "News",},{id: "news-received-my-ph-d-from-national-taiwan-university-ntu-and-will-be-joining-nvidia-research-as-a-research-scientist",
+          title: 'Received my Ph.D. from National Taiwan University (NTU) and will be joining NVIDIA...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
