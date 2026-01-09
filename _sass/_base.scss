@@ -1357,3 +1357,13 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// News 公告間距調整
+.news table td,
+.news table th {
+  padding-top: 0.0rem !important;
+  padding-bottom: 0.0rem !important;
+}
+.news table th {
+  width: 18% !important;
+}
