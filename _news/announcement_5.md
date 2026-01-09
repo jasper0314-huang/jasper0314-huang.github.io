@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-19 01:00:00+0800
+date: 2025-06-26 15:59:00+0800
 inline: true
 related_posts: false
 ---
 
-Our paper "ThinkAct" is accepted by [NeurIPS 2025](https://neurips.cc/).
+Our papers "CNS" and "MotionMatcher" are accepted by [ICCV 2025](https://iccv.thecvf.com/).
