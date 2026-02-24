@@ -370,6 +370,9 @@ ninja.data = [{
           section: "News",},{id: "news-received-my-ph-d-from-national-taiwan-university-ntu-and-will-be-joining-nvidia-research-as-a-research-scientist",
           title: 'Received my Ph.D. from National Taiwan University (NTU) and will be joining NVIDIA...',
           description: "",
+          section: "News",},{id: "news-our-paper-fast-thinkact-is-accepted-by-cvpr-2026",
+          title: 'Our paper Fast-ThinkAct is accepted by CVPR 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
