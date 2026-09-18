@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our papers "CNS" and "MotionMatcher" are accepted by [ICCV 2025](https://iccv.thecvf.com/).
+Our paper "CNS" is accepted at [ICCV 2025](https://iccv.thecvf.com/), and "MotionMatcher" is accepted at the ICCV 2025 Workshop on P13N: Personalization in Generative AI.
