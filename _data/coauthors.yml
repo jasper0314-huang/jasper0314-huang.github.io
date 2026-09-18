@@ -33,6 +33,10 @@
     url: https://openreview.net/profile?id=~Chung-Ting_Tsai1
 
 "chen":
+  - firstname: ["Jing-Wen"]
+    url: https://scholar.google.com/citations?user=UiGhGIYAAAAJ
+  - firstname: ["Yi-Ting"]
+    url: https://sites.google.com/site/yitingchen0524/home
   - firstname: ["Jr-Jen"]
     url: https://tousakanagio.github.io/
   - firstname: ["Min-Hung"]
@@ -57,3 +61,7 @@
 "kautz":
   - firstname: ["Jan"]
     url: https://jankautz.com/
+
+"sun":
+  - firstname: ["Shao-Hua"]
+    url: https://shaohua0116.github.io/
