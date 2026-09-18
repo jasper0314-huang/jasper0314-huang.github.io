@@ -701,6 +701,10 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  &.selected-publications {
+    margin-top: 1.7rem;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -766,6 +770,12 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+      }
+
+      .publication-summary {
+        margin: 0.25rem 0 0.4rem;
+        font-size: 0.95rem;
+        line-height: 1.5;
       }
 
       .author {
