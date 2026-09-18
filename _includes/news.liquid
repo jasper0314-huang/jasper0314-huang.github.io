@@ -1,10 +1,15 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% assign visible_rows = page.announcements.visible_rows | default: 4 | at_least: 1 %}
+    {% assign news_limit = page.announcements.limit | default: news_size | at_most: news_size %}
     <div
       class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+      {% if include.limit and page.announcements.scrollable and news_limit > visible_rows %}
+        data-news-visible-rows="{{ visible_rows }}"
+        tabindex="0"
+        role="region"
+        aria-label="News, scroll for older announcements"
       {% endif %}
     >
       <table class="table table-sm table-borderless">

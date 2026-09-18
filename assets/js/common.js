@@ -1,4 +1,25 @@
 $(document).ready(function () {
+  // Measure complete news rows so wrapped text also fits on narrow screens.
+  document.querySelectorAll("[data-news-visible-rows]").forEach(function (region) {
+    const table = region.querySelector("table");
+    const visibleRows = Number(region.dataset.newsVisibleRows);
+    const updateHeight = function () {
+      const rows = Array.from(table.rows);
+      if (rows.length <= visibleRows) return;
+      const first = rows[0].getBoundingClientRect();
+      const last = rows[visibleRows - 1].getBoundingClientRect();
+      region.style.maxHeight = `${Math.ceil(last.bottom - first.top)}px`;
+      region.classList.add("news-scroll");
+    };
+    updateHeight();
+    if (window.ResizeObserver) {
+      new ResizeObserver(updateHeight).observe(table);
+    } else {
+      window.addEventListener("resize", updateHeight);
+    }
+    if (document.fonts) document.fonts.ready.then(updateHeight);
+  });
+
   // add toggle functionality to abstract, award and bibtex buttons
   $("a.abstract").click(function () {
     $(this).parent().parent().find(".abstract.hidden").toggleClass("open");

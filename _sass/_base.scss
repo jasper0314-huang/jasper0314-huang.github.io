@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 26%;
 
     .address {
       p {
@@ -698,11 +698,15 @@ footer.sticky-bottom {
 
 // Publications
 
+.selected-publications-heading {
+  margin-top: 1.5rem;
+}
+
 .publications {
   margin-top: 2rem;
 
   &.selected-publications {
-    margin-top: 1.7rem;
+    margin-top: 1rem;
   }
 
   h1 {
@@ -1366,6 +1370,40 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
+}
+
+// Keep the news list quiet and compact, with a subtle scroll affordance.
+.news-scroll {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--global-divider-color) transparent;
+  scrollbar-gutter: stable;
+
+  table {
+    margin-bottom: 0;
+  }
+
+  &:focus-visible {
+    outline: 1px solid var(--global-theme-color);
+    outline-offset: 3px;
+    border-radius: 3px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--global-divider-color);
+    border-radius: 5px;
+  }
+}
+
+@media print {
+  .news-scroll {
+    max-height: none !important;
+    overflow: visible;
+  }
 }
 
 // News 公告間距調整
