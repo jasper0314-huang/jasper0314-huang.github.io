@@ -358,8 +358,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-videomage-is-accepted-by-cvpr-2025",
           title: 'Our paper “VideoMage” is accepted by CVPR 2025.',
           description: "",
-          section: "News",},{id: "news-our-papers-cns-and-motionmatcher-are-accepted-by-iccv-2025",
-          title: 'Our papers “CNS” and “MotionMatcher” are accepted by ICCV 2025.',
+          section: "News",},{id: "news-our-paper-cns-is-accepted-at-iccv-2025-and-motionmatcher-is-accepted-at-the-iccv-2025-workshop-on-p13n-personalization-in-generative-ai",
+          title: 'Our paper “CNS” is accepted at ICCV 2025, and “MotionMatcher” is accepted at...',
           description: "",
           section: "News",},{id: "news-our-paper-thinkact-is-accepted-by-neurips-2025",
           title: 'Our paper “ThinkAct” is accepted by NeurIPS 2025.',
@@ -378,7 +378,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%66%31%31%39%34%32%30%39%37@%6E%74%75.%65%64%75.%74%77", "_blank");
+          window.open("mailto:%63%68%69%70%69%6E%68@%6E%76%69%64%69%61.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-scholar',
