@@ -1,3 +1,27 @@
+## Local preview on this Mac (without Docker)
+
+Run `./bin/preview` from the repository, then open <http://127.0.0.1:4000>.
+Keep the terminal running while editing. Pages rebuild and the browser reloads
+after changes; restart the command after editing `_config.yml`. Stop with Ctrl+C.
+An alternative port can be selected with `./bin/preview --port 4001`.
+
+The preview script selects Homebrew Ruby 3.3 and the repository's Python
+environment automatically. Dependencies are installed locally under `vendor/`
+and `.bundle/`, which are excluded from Git and the generated site.
+
+To recreate the environment on another Mac:
+
+```bash
+brew install ruby@3.3 imagemagick node python
+export PATH="$(brew --prefix ruby@3.3)/bin:$PATH"
+gem install bundler -v 2.6.2
+bundle config set --local path vendor/bundle
+bundle install
+python3 -m venv .bundle/python
+.bundle/python/bin/python -m pip install nbconvert
+./bin/preview
+```
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
