@@ -10,7 +10,9 @@
 
 "yu":
   - firstname: ["Yu-Chu"]
-    url: https://chuyu.org/
+    url: https://chu0802.github.io/
+  - firstname: ["Zhiding"]
+    url: https://chrisding.github.io/
 
 "lai":
   - firstname: ["Yung-Hsuan"]
@@ -34,7 +36,7 @@
 
 "chen":
   - firstname: ["Jing-Wen"]
-    url: https://scholar.google.com/citations?user=UiGhGIYAAAAJ
+    url: https://joycelyn-chen.github.io/
   - firstname: ["Yi-Ting"]
     url: https://sites.google.com/site/yitingchen0524/home
   - firstname: ["Jr-Jen"]
@@ -54,10 +56,6 @@
   - firstname: ["Yunze"]
     url: https://yunzeman.github.io/
 
-"yu":
-  - firstname: ["Zhiding"]
-    url: https://chrisding.github.io/
-
 "kautz":
   - firstname: ["Jan"]
     url: https://jankautz.com/
@@ -65,3 +63,7 @@
 "sun":
   - firstname: ["Shao-Hua"]
     url: https://shaohua0116.github.io/
+
+"lin":
+  - firstname: ["Chen-Yu"]
+    url: https://tripled0232.github.io/
