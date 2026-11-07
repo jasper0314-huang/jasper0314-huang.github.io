@@ -784,7 +784,8 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-text-color);
+          // Linked and unlinked coauthor names look the same; the link shows on hover.
+          border-bottom: 1px solid transparent;
           color: var(--global-text-color);
 
           &:hover {
