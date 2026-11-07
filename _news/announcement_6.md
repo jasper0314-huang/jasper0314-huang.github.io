@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "ThinkAct" is accepted by [NeurIPS 2025](https://neurips.cc/).
+Our paper [ThinkAct](https://jasper0314-huang.github.io/thinkact-vla/) is accepted at [NeurIPS 2025](https://neurips.cc/).

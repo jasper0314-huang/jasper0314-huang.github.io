@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "VideoMage" is accepted by [CVPR 2025](https://cvpr.thecvf.com/).
+Our paper [VideoMage](https://jasper0314-huang.github.io/videomage-customization/) is accepted at [CVPR 2025](https://cvpr.thecvf.com/).

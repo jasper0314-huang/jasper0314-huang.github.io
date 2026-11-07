@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join [NVIDIA Research](https://research.nvidia.com/labs/twn/) as a Research Intern.
+Joined [NVIDIA Research](https://research.nvidia.com/labs/twn/) as a Research Intern.

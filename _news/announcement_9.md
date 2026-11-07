@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Fast-ThinkAct](https://jasper0314-huang.github.io/fast-thinkact/) is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
+Our paper [Fast-ThinkAct](https://jasper0314-huang.github.io/fast-thinkact/) is accepted at [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our papers "SANTA" and "TA-Prompting" are accepted by [WACV 2026](https://wacv.thecvf.com/).
+Our papers [SANTA](https://kpc0810.github.io/santa/) and [TA-Prompting](https://arxiv.org/abs/2601.02908) are accepted at [WACV 2026](https://wacv.thecvf.com/).

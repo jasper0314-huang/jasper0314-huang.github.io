@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "RAPPER" is accepted by [ICLR 2024](https://iclr.cc/).
+Our paper [RAPPER](/assets/pdf/iclr24_rapper.pdf) is accepted at [ICLR 2024](https://iclr.cc/).
