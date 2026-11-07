@@ -46,7 +46,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2024/04/29/typograms.html";
+          window.location.href = "/sample-posts/2024/04/30/typograms.html";
         
       },
     },{id: "post-a-post-that-can-be-cited",
@@ -79,7 +79,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2024/01/27/code-diff.html";
+          window.location.href = "/sample-posts/2024/01/28/code-diff.html";
         
       },
     },{id: "post-a-post-with-advanced-image-components",
@@ -112,7 +112,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2024/01/26/geojson-map.html";
+          window.location.href = "/sample-posts/2024/01/27/geojson-map.html";
         
       },
     },{id: "post-a-post-with-echarts",
@@ -123,7 +123,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2024/01/26/echarts.html";
+          window.location.href = "/sample-posts/2024/01/27/echarts.html";
         
       },
     },{id: "post-a-post-with-chart-js",
@@ -145,7 +145,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2023/12/12/tikzjax.html";
+          window.location.href = "/sample-posts/2023/12/13/tikzjax.html";
         
       },
     },{id: "post-a-post-with-bibliography",
@@ -178,7 +178,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2023/05/12/custom-blockquotes.html";
+          window.location.href = "/sample-posts/2023/05/13/custom-blockquotes.html";
         
       },
     },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -211,7 +211,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2023/04/24/videos.html";
+          window.location.href = "/sample-posts/2023/04/25/videos.html";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -222,7 +222,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2023/03/20/tables.html";
+          window.location.href = "/sample-posts/2023/03/21/tables.html";
         
       },
     },{id: "post-a-post-with-table-of-contents",
@@ -266,7 +266,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/2021/07/04/diagrams.html";
+          window.location.href = "/2021/07/05/diagrams.html";
         
       },
     },{id: "post-a-distill-style-blog-post",
@@ -332,7 +332,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2015/05/15/images.html";
+          window.location.href = "/sample-posts/2015/05/16/images.html";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
@@ -343,35 +343,44 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
+          window.location.href = "/sample-posts/2015/03/16/formatting-and-links.html";
         
       },
-    },{id: "news-our-paper-rapper-is-accepted-by-iclr-2024",
-          title: 'Our paper “RAPPER” is accepted by ICLR 2024.',
+    },{id: "news-our-paper-rapper-is-accepted-at-iclr-2024",
+          title: 'Our paper RAPPER is accepted at ICLR 2024.',
           description: "",
           section: "News",},{id: "news-our-papers-receler-and-select-and-distill-are-accepted-at-eccv-2024",
-          title: 'Our papers “Receler” and “Select and Distill” are accepted at ECCV 2024.',
+          title: 'Our papers Receler and Select and Distill are accepted at ECCV 2024.',
           description: "",
-          section: "News",},{id: "news-join-nvidia-research-as-a-research-intern",
-          title: 'Join NVIDIA Research as a Research Intern.',
+          section: "News",},{id: "news-joined-nvidia-research-as-a-research-intern",
+          title: 'Joined NVIDIA Research as a Research Intern.',
           description: "",
-          section: "News",},{id: "news-our-paper-videomage-is-accepted-by-cvpr-2025",
-          title: 'Our paper “VideoMage” is accepted by CVPR 2025.',
+          section: "News",},{id: "news-our-paper-videomage-is-accepted-at-cvpr-2025",
+          title: 'Our paper VideoMage is accepted at CVPR 2025.',
           description: "",
-          section: "News",},{id: "news-our-paper-cns-is-accepted-at-iccv-2025-and-motionmatcher-is-accepted-at-the-iccv-2025-workshop-on-p13n-personalization-in-generative-ai",
-          title: 'Our paper “CNS” is accepted at ICCV 2025, and “MotionMatcher” is accepted at...',
+          section: "News",},{id: "news-our-paper-continual-personalization-for-diffusion-models-is-accepted-at-iccv-2025-and-motionmatcher-is-accepted-at-the-iccv-2025-workshop-on-p13n-personalization-in-generative-ai",
+          title: 'Our paper Continual Personalization for Diffusion Models is accepted at ICCV 2025, and...',
           description: "",
-          section: "News",},{id: "news-our-paper-thinkact-is-accepted-by-neurips-2025",
-          title: 'Our paper “ThinkAct” is accepted by NeurIPS 2025.',
+          section: "News",},{id: "news-our-paper-thinkact-is-accepted-at-neurips-2025",
+          title: 'Our paper ThinkAct is accepted at NeurIPS 2025.',
           description: "",
-          section: "News",},{id: "news-our-papers-santa-and-ta-prompting-are-accepted-by-wacv-2026",
-          title: 'Our papers “SANTA” and “TA-Prompting” are accepted by WACV 2026.',
+          section: "News",},{id: "news-our-papers-santa-and-ta-prompting-are-accepted-at-wacv-2026",
+          title: 'Our papers SANTA and TA-Prompting are accepted at WACV 2026.',
           description: "",
           section: "News",},{id: "news-received-my-ph-d-from-national-taiwan-university-ntu-and-will-be-joining-nvidia-research-as-a-research-scientist",
           title: 'Received my Ph.D. from National Taiwan University (NTU) and will be joining NVIDIA...',
           description: "",
-          section: "News",},{id: "news-our-paper-fast-thinkact-is-accepted-by-cvpr-2026",
-          title: 'Our paper Fast-ThinkAct is accepted by CVPR 2026.',
+          section: "News",},{id: "news-our-paper-fast-thinkact-is-accepted-at-cvpr-2026",
+          title: 'Our paper Fast-ThinkAct is accepted at CVPR 2026.',
+          description: "",
+          section: "News",},{id: "news-our-paper-physcap-is-accepted-at-the-8th-robot-learning-workshop-neurips-2026-and-the-workshop-on-agentic-robotics-corl-2026",
+          title: 'Our paper PhysCaP is accepted at the 8th Robot Learning Workshop @ NeurIPS...',
+          description: "",
+          section: "News",},{id: "news-our-new-preprint-thinkworld-is-now-available-on-arxiv",
+          title: 'Our new preprint ThinkWorld is now available on arXiv.',
+          description: "",
+          section: "News",},{id: "news-our-new-preprint-vflash-is-now-available-on-arxiv",
+          title: 'Our new preprint VFlash is now available on arXiv.',
           description: "",
           section: "News",},{
         id: 'social-email',
