@@ -382,6 +382,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-new-preprint-vflash-is-now-available-on-arxiv",
           title: 'Our new preprint VFlash is now available on arXiv.',
           description: "",
+          section: "News",},{id: "news-our-new-preprint-mawam-is-now-available-on-arxiv",
+          title: 'Our new preprint MAWAM is now available on arXiv.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
